@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = arieljurkevitch@gmail.com
+	name = Ariel Jurkevitch
